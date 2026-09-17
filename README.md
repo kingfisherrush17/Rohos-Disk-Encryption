@@ -227,4 +227,4 @@ Rohos Disk Encryption is offered as a full free version, providing access to all
 Take control of your data privacy today! Download Rohos Disk Encryption for free and secure your confidential information with confidence.
 
 ---
-**Last updated:** 2026-09-16 21:56:50 UTC
+**Last updated:** 2026-09-17 00:16:05 UTC
